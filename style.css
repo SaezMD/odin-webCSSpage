@@ -112,6 +112,41 @@ a {
     padding: 9px;  
 }
 
+.midpart{
+    text-align: center;
+}
+
+.infomid {
+    font-size: 36px;
+    font-weight: 900;
+    margin-bottom: 32px;
+    margin-top: 32px;
+}
+
+.nicephotos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 52px;
+    
+}
+
+.quads {
+    width: 300px;
+    height: auto;
+}
+
+.quads img{
+    width: 300px;
+    height: 300px;
+    /*Cover is better here*/
+    object-fit: cover;
+    border-radius: 20px;
+    border: 2px solid royalblue;
+  
+}
+
+
 .footer {
     display: flex;
     align-items: flex-end;
