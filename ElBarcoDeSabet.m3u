@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml"
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png",M. LaLiga 1080 MultiAudio 2280
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga TV HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png",M. LaLiga 1080 MultiAudio 2280
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png",M. LaLiga 1080 MultiAudio b02f
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
