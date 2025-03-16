@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml
-#EXTINF:-1 group-title="DEPORTES" tvg-id="#VAMOS FHD --> NEW ERA II", #VAMOS FHD --> NEW ERA II
+#EXTINF:-1 group-title="DEPORTES" tvg-id="M+ Vamos HD", #VAMOS FHD --> NEW ERA II
 acestream://c6b52ffb3b84836d334569204797d88bf15d48fa
 #EXTINF:-1 group-title="DEPORTES" tvg-id="#VAMOS FHD (SAT) --> NEW ERA", #VAMOS FHD (SAT) --> NEW ERA
 acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77
